@@ -11,6 +11,6 @@ This is a React + TypeScript application that allows employers to search for can
 - Deployed on Render.
 
 ## 📦 Installation
-Since github dont allow to upload the .env file with the Token, you will need to create the file and add the token.
+
 Install dependencies:
    npm install
