@@ -15,5 +15,5 @@ This is a React + TypeScript application that allows employers to search for can
 Install dependencies:
    npm install
 
-## Render
+## 👾 Render
 [Candidate Search Render](https://module13challengecandidatesearchapp.onrender.com)
